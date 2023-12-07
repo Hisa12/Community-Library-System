@@ -1,0 +1,15 @@
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/bin/Debug/net6.0/Movie
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/bin/Debug/net6.0/Movie.deps.json
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/bin/Debug/net6.0/Movie.runtimeconfig.json
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/bin/Debug/net6.0/Movie.dll
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/bin/Debug/net6.0/Movie.pdb
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.csproj.AssemblyReference.cache
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.AssemblyInfoInputs.cache
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.AssemblyInfo.cs
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.csproj.CoreCompileInputs.cache
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.dll
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/refint/Movie.dll
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.pdb
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/Movie.genruntimeconfig.cache
+/Users/hisano/Desktop/Master of IT/IFN664/n11219033/Movie/Movie/obj/Debug/net6.0/ref/Movie.dll
